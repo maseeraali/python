@@ -1,2 +1,2 @@
-# python
-**learning**
+# Python
+**A learning repository**
